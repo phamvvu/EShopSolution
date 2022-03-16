@@ -15,3 +15,4 @@
 - Microsoft.Extensions.Configuration.Json
 - Microsoft.AspNetCore.Identity.EntityFrameworkCore
 - Microsoft.AspNetCore.Hosting.Abstractions
+- Swashbuckle.AspNetCore
